@@ -1,7 +1,7 @@
 [
   {
     "ID": 1,
-    "Cover": "https://i.ibb.co/sqNXYwH/allan-lainez-7y2v-VGz-AQ2o-unsplash.jpg",
+    "Cover": "https://i.ibb.co/sRK2hb6/lars-kaizer-Ao-f-Cl-MP8-Q-unsplash.jpg",
     "Title": "Lorem Ipsum",
     "Author Img": "https://example.com/author1.jpg",
     "Posted Date": "2023-09-12",
@@ -10,7 +10,7 @@
   },
   {
     "ID": 2,
-    "Cover": "https://i.ibb.co/z740mhT/logan-weaver-lgnwvr-7f-Qz-ZDXNty-A-unsplash.jpg",
+    "Cover": "https://i.ibb.co/xHLk4Sk/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
     "Title": "Sample Article",
     "Author Img": "https://example.com/author2.jpg",
     "Posted Date": "2023-09-11",
@@ -28,7 +28,7 @@
   },
   {
     "ID": 4,
-    "Cover": "https://i.ibb.co/xHLk4Sk/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
+    "Cover": "https://i.ibb.co/z740mhT/logan-weaver-lgnwvr-7f-Qz-ZDXNty-A-unsplash.jpg",
     "Title": "Tech News",
     "Author Img": "https://example.com/author4.jpg",
     "Posted Date": "2023-09-09",
@@ -37,7 +37,7 @@
   },
   {
     "ID": 5,
-    "Cover": "https://i.ibb.co/sRK2hb6/lars-kaizer-Ao-f-Cl-MP8-Q-unsplash.jpg",
+    "Cover": "https://i.ibb.co/sqNXYwH/allan-lainez-7y2v-VGz-AQ2o-unsplash.jpg",
     "Title": "Travel Diary",
     "Author Img": "https://example.com/author5.jpg",
     "Posted Date": "2023-09-08",
