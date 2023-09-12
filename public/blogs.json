@@ -1,0 +1,47 @@
+[
+  {
+    "ID": 1,
+    "Cover": "https://i.ibb.co/sqNXYwH/allan-lainez-7y2v-VGz-AQ2o-unsplash.jpg",
+    "Title": "Lorem Ipsum",
+    "Author Img": "https://example.com/author1.jpg",
+    "Posted Date": "2023-09-12",
+    "Reading Time": "5 min",
+    "Hashtags": ["LoremIpsum", "Lorem", "Ipsum"]
+  },
+  {
+    "ID": 2,
+    "Cover": "https://i.ibb.co/z740mhT/logan-weaver-lgnwvr-7f-Qz-ZDXNty-A-unsplash.jpg",
+    "Title": "Sample Article",
+    "Author Img": "https://example.com/author2.jpg",
+    "Posted Date": "2023-09-11",
+    "Reading Time": "8 min",
+    "Hashtags": ["Sample", "Article", "Demo"]
+  },
+  {
+    "ID": 3,
+    "Cover": "https://i.ibb.co/FXbLX2w/mathias-reding-s-Y-9-Y4gu4ps-unsplash.jpg",
+    "Title": "Fictional Story",
+    "Author Img": "https://example.com/author3.jpg",
+    "Posted Date": "2023-09-10",
+    "Reading Time": "10 min",
+    "Hashtags": ["Fiction", "Story", "Fantasy"]
+  },
+  {
+    "ID": 4,
+    "Cover": "https://i.ibb.co/xHLk4Sk/florian-klauer-mk7-D-4-UCfmg-unsplash.jpg",
+    "Title": "Tech News",
+    "Author Img": "https://example.com/author4.jpg",
+    "Posted Date": "2023-09-09",
+    "Reading Time": "3 min",
+    "Hashtags": ["Tech", "News", "Updates"]
+  },
+  {
+    "ID": 5,
+    "Cover": "https://i.ibb.co/sRK2hb6/lars-kaizer-Ao-f-Cl-MP8-Q-unsplash.jpg",
+    "Title": "Travel Diary",
+    "Author Img": "https://example.com/author5.jpg",
+    "Posted Date": "2023-09-08",
+    "Reading Time": "7 min",
+    "Hashtags": ["Travel", "Diary", "Adventure"]
+  }
+]
